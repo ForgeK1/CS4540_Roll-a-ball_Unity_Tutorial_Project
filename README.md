@@ -1,2 +1,2 @@
-# CS4540_Roll-a-ball_Unity_Tutorial_Project
+# 3D Beginner Unity Game: Roll-a-Ball
 A tutorial course in Unity assigned by Dr. Krum for his Virtual Reality Course
