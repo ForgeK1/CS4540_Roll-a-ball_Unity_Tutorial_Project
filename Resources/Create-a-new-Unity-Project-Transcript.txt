@@ -1,0 +1,40 @@
+﻿Hello.
+
+
+OK, first things first. In this video, you'll learn how to create a new Unity project. Let's get started.
+
+
+First, open your Unity hub. 
+
+
+Select the account icon and log in with your Unity account. If it shows your initials, you're already logged in.
+
+
+Select projects and then new to open the new project window. 
+
+
+At this point, you can choose from a range of different templates for your Unity project.
+
+
+Select the 3D Universal template for this Unity project. 
+
+
+The Universal Render Pipeline or URP lets you quickly and easily create optimized graphics across a range of platforms from mobile to high end consoles and PCs. 
+
+
+If this is the first time you open a project with this template, you need to download the template first by selecting the download button to the right.
+
+
+In the project name field, call this project Rollerball.
+
+
+Next, in the location field, select the destination or file path for the new project.
+
+
+Finally, select create project to make your project. It will open in the Unity editor.
+
+
+Don't worry if this takes a little time to load, especially if this is the first time you've opened a project in the editor. 
+
+
+Now that you've created the Unity project for your game, in the next video, you'll set up the workspace in the editor.

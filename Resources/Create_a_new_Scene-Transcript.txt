@@ -1,0 +1,35 @@
+Before you begin to create your game, you need to set up your workspace and create a new scene.
+
+In the top right of the Unity window, you will find a dropdown menu labeled Layout. 
+
+A layout is a collection of stored positions of the tabs in Unity.
+
+These tutorials use the default layout so it's easier for you to follow along, but you can change and save layouts you enjoy by using this menu.
+
+These are saved in the Unity Editor settings so you can store and use them for different projects.
+
+Now you've set a layout, you're ready to create a new scene.
+
+Scenes are ways to organize the things in your game. You can think of them as different levels.
+
+To create a new scene in the Unity editor, in the top menu, go to File, New Scene.
+
+You will be presented with four template choices... Basic URP, Standard URP, Empty, and Basic Built In.
+
+The Basic URP template contains a camera and direct light that acts as a sun. 
+
+The Standard URP template contains the same, but includes a preset selection of post-processing effects and a global post-processing volume.
+
+The Empty template is exactly that... empty. It contains no game objects or effects and gives you a blank slate to start from.
+
+Finally, the Basic template is set up to work with the legacy built-in renderer. 
+
+For this tutorial, select the Basic URP template and then select Create.
+
+Next, save the scene by going back to File, Save As.
+
+Now save your scene into the new folder called Scenes. Let's call the scene, Minigame.
+
+In the Project window, you can now see the Scenes folder, and inside that, the scene called Minigame.
+
+Now that you've set up your scene, in the next video you'll start creating the play area for your game.
